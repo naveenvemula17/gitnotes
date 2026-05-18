@@ -69,6 +69,17 @@ git push -u origin *** name***
 1. git pull origin *****hero******** ===== pulls files from branch hero  to current branch.
 
 
+-------------------------------------- undo ---------------------
+
+1. git reset == for all files or 
+
+   git reset *** file name***
+
+   when u staged a file and want to unstaged the same file.
+
+   
+
+
 
 
 
