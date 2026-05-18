@@ -38,6 +38,11 @@
 
 2. git push === uploads to github.
 
+git push origin ***hero***= branch named "hero" will be updated,in the github and compare and merge will be available. 
+ 
+ By doing this only master is updated but not other branches.
+
+ To update them by pulling or merging locally.
 
 now check status,add ., commit, push 
 
@@ -62,6 +67,8 @@ git push -u origin *** name***
 -------------------------------------------- PULLING. -----------------------------
 
 1. git pull origin *****hero******** ===== pulls files from branch hero  to current branch.
+
+
 
 
 
