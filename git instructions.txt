@@ -42,7 +42,7 @@ git push origin ***hero***= branch named "hero" will be updated,in the github an
  
  By doing this only master is updated but not other branches.
 
- To update them by pulling or merging locally.
+ update them by pulling or merging locally.
 
 now check status,add ., commit, push 
 
