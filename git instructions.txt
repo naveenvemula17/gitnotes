@@ -77,7 +77,21 @@ git push -u origin *** name***
 
    when u staged a file and want to unstaged the same file.
 
+2. git reset HEAD~1
    
+   reverts a commit.
+
+3. git reset --hard
+
+   *** will be added***
+
+-------------------------- FORK ------------------
+
+copying a project as repository. (inorder to develop or fix.)
+
+
+
+
 
 
 
